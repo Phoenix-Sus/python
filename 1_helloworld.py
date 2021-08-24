@@ -8,7 +8,7 @@ print("Hello world!")
 
 # Just like Word reads `.docx` files, Python reads `.py` files; 
 # except instead of containing your essay, `.py` files contain 
-# instructions that tell Python what you want it to do.
+# instructions that tell Python what you want it to do.cscsa
 
 # Remember, to run, open a terminal window and type 'python 1_helloworld.py'. 
 # You need to install python to do this!
